@@ -2,9 +2,9 @@
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
 * [Approach](#Approach)
- * [Data Preprocessing](#Data-Preprocessing)
- * [Feature Selection](#Feature-Selection)
- * [Model Implementation](#Model-Implementation)
+* [Data Preprocessing](#Data-Preprocessing)
+* [Feature Selection](#Feature-Selection)
+* [Model Implementation](#Model-Implementation)
 
 
 
