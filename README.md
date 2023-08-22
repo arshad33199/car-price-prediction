@@ -42,7 +42,9 @@ Finding out the best feature which will contribute and have good relation with t
 I used Linear regression to fit the dataset.
 
 The R2 square values which i got is 87.99% 
+
 ![download (1)](https://github.com/arshad33199/car-price-prediction/assets/142779412/f14bc013-aef8-49f9-982a-21db07806cc3)
+
 
 
 
